@@ -4,6 +4,7 @@
     align-items: center;
     gap: 10px;
     height: 90vh;
+    width: 100%;
 }
 .popular h1{
 color: #171717;
@@ -21,4 +22,5 @@ font-weight: 600;
  margin-top: 50px;
  display: flex;
  gap: 30px;
+ max-width: 100%;
 }
